@@ -2,7 +2,7 @@
 
 
 /**
- * Main - Size is a grandeur - Prints sizes of vaious types
+ * main: Size is a grandeur - Prints sizes of vaious types
  * Return: 0, when program runs completely
  */
 
