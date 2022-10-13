@@ -4,6 +4,8 @@
 
 /**
  * main - prints 'and that piece of art useful
+ * - Dora Korpar, 2015-10-19
+ * followed by a new line, to the standard error.
  * Return: 1 on completion of program run
  */
 
