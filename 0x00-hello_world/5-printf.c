@@ -4,7 +4,7 @@
 /**
  * main  - the conventional entry point
  * printf - function to diplay data parsed to it
- * Return - Return 0, when complete
+ * Return: 0, when complete
  */
 int main(void)
 {
