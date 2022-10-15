@@ -4,7 +4,7 @@
 
 /**
  *main - allocate a random number to int
- *print it 
+ *print it
  *Return: 0 when run succesful
  */
 
