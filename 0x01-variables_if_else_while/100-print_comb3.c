@@ -12,7 +12,7 @@ int main(void)
 
 	for (doubles = '0'; doubles <= '9'; doubles++)
 	{
-		for(singles = '0'; singles <= '9'; singles++)
+		for (singles = (doubles + 1); singles <= '9'; singles++)
 		{
 			putchar(doubles);
 			putchar(singles);
