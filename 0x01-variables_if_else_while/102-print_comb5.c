@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main - print all possible combination of two 2-digit 
+ *main - print all possible combination of two 2-digit
  *numbers should range 0-99
  *Return:0 when program runs completely
  */
