@@ -21,7 +21,7 @@ int main(void)
 				putchar(' ');
 				putchar((two / 10) + 48);
 				putchar((two * 10) + 48);
-				if (one != 98 || (two != 99)
+				if (one != 98 || (two != 99))
 				{
 					putchar(',');
 					putchar(' ');

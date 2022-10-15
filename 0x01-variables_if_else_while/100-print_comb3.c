@@ -17,7 +17,7 @@ int main(void)
 			putchar(doubles);
 			putchar(singles);
 
-			if (doubles != '8' || (singles != '9))
+			if (doubles != '8' || (singles != '9'))
 			{
 				putchar(',');
 				putchar(' ');
