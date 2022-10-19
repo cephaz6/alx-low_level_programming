@@ -1,7 +1,7 @@
 #include <stdio.h>
+#include <unistd.h>
 
-char text;
-void _putchar()
+int _putchar(char text)
 {
-	putchar(text);
+	return (write(1, &text, 1));
 }
