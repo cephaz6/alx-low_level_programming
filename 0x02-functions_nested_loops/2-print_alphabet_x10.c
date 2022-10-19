@@ -2,6 +2,7 @@
 
 /**
  * main - prints the result of print_alphabetx10 ten times
+ * print_alphabetx10 - function included in the main.h file
  * Return: 0 when run successful
  */
 
