@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * void print_to_98 - function that prints to 98
+ * print_to_98 -  function that prints to 98
  * @n: integer argument passed
  * Return: return 0 on completion
  */
