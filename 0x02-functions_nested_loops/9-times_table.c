@@ -3,7 +3,7 @@
 
 /**
  * times_table - function that prints the 9-times table
- * 
+ *
  * Return: return 0 on successful
  */
 
@@ -11,6 +11,7 @@
 void times_table(void)
 {
 	int row, column, product, tens, ones;
+	
 	for (row = 0; row <= 9; row++)
 	{
 		for (column = 0; column <= 9; column++)
