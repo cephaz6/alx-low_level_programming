@@ -2,13 +2,14 @@
 
 /**
  * jack_bauer - function that prints every minute of the day
- * Return: returns 0 on successful 
+ * Return: returns 0 on successful
  */
 
 void jack_bauer(void)
 {
 	int x;
 	int y;
+
 	for (x = 0; x < 24; x++)
 	{
 		for (y = 0; y < 60; y++)
@@ -39,4 +40,5 @@ void jack_bauer(void)
 			_putchar(y);
 		}
 	}
+	_putchar('\n');
 }
