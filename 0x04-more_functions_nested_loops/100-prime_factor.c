@@ -7,7 +7,7 @@
  */
 
 
-int main(voi)
+int main(void)
 {
 	unsigned long int i = 3, n = 612852475143;
 	
