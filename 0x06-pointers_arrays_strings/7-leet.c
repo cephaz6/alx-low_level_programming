@@ -2,7 +2,7 @@
 
 
 /**
- * leet - encode
+ * *leet - encode
  * @s: pointer to char params
  * Return: *s
  */
