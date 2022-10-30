@@ -10,7 +10,6 @@
  * Return: no return.
  */
 
-
 void print_buffer(char *b, int size)
 {
 	int j, k, l;
@@ -21,8 +20,7 @@ void print_buffer(char *b, int size)
 	{
 		for (j = 0; j < size; j += 10)
 		{
-			printf("%.8x:", j);
-			
+			printf("%.8x:", j)
 			for (k = j; k < j + 10; k++)
 			{
 				if (k % 2 == 0)
